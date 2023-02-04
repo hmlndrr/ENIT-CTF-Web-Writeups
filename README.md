@@ -1,6 +1,6 @@
 # ENIT CTF Web Category Official Writeups
 
-- [Feminist](1.Feminist/README.md)
+- [Feminist](Feminist/README.md)
 - [Starboy](Starboy/README.md)
 - [Dinoobox](Dinoobox/README.md)
 - [Coffeeshop](Coffeeshop/README.md)
