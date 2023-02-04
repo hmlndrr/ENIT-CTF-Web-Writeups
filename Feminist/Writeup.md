@@ -107,3 +107,7 @@ The Challenge is pretty simple and Linux commands are your best friend in this t
 I Recommand watching the show. It is top notch.
 
 ![](images/feminist.jpeg)
+
+
+## Other Writeups
+- [unintended](unintended.md)
