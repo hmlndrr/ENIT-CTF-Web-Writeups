@@ -104,6 +104,6 @@ The Challenge is pretty simple and Linux commands are your best friend in this t
 ## Flag
 > ENIT{th3_best_g0_gir1_moM3nt_1_sAw_waS_in_tHe_boys}
 
-I Recommand watching the show is top notch.
+I Recommand watching the show. It is top notch.
 
 ![](feminist.jpeg)
