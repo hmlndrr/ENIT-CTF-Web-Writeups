@@ -1,6 +1,6 @@
 ## Introduction
 
-![](image.png)
+![](images/image.png)
 
 As the name in the website suggests, This is an RCE challenge, and we have to somehow execute some Linux commands in a way that we can get the flag. 
 We have an input field where we can enter some commands, and we have a button to execute them. with a Feminist theme. And most importantly, a link to the source code.
@@ -106,4 +106,4 @@ The Challenge is pretty simple and Linux commands are your best friend in this t
 
 I Recommand watching the show. It is top notch.
 
-![](feminist.jpeg)
+![](images/feminist.jpeg)

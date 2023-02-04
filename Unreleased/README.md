@@ -11,3 +11,6 @@ I like this artist, still his website doesn't sound secure, I wonder if I can ge
 - [https://my-unreleased-songs.onrender.com](https://my-unreleased-songs.onrender.com)
 - File: [code.zip](./code.zip)
 - Flag Format: `ENIT{TRACKNUMB_FILEFORMAT_LASTWORD_NOTE}`
+
+## Solution
+[Writeup](Writeup.md)
