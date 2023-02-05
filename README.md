@@ -1,10 +1,13 @@
-# ENIT CTF Web Category Official Writeups
+# ENIT CTF - Web Category Official Writeups
 
-- [Feminist](Feminist/README.md)
-- [Starboy](Starboy/README.md)
-- [Dinoobox](Dinoobox/README.md)
-- [Coffeeshop](Coffeeshop/README.md)
-- [Unreleased](Unreleased/README.md)
-- [The Web Project](The-Web-Project/README.md)
-- [Blinding Lights](Blinding-Lights/README.md)
-- [Baby4J](Baby4J/README.md)
+
+| Title | Weight | Tags | Statement | Writeup |
+|---|---|---|---|---|
+| Feminist | 500 | `easy`, `rce`, `python`  | [Visit](Feminist/README.md) | [Visit](Feminist/Writeup.md) |
+| Starboy | 500 | `easy`, `jwt`, `ts`  | [Visit](Starboy/README.md) | [Visit](Starboy/Writeup.md) |
+| Coffeeshop | 500 | `easy`, `implementation`  | [Visit](Coffeeshop/README.md) | [Visit](Coffeeshop/Writeup.md) |
+| Unreleased | 500 | `easy`, `lfi`, `ts`  | [Visit](Unreleased/README.md) | [Visit](Unreleased/Writeup.md) |
+| Dinoobox | 500 | `medium`, `sandbox`, `deno`  | [Visit](Dinoobox/README.md) | [Visit](Dinoobox/Writeup.md) |
+| The Web Project | 500 | `medium`, `sql`, `ts`  | [Visit](The-Web-Project/README.md) | [Visit](The-Web-Project/Writeup.md) |
+| Blinding Lights | 1500 | `medium`, `sql`, `go`  | [Visit](Blinding-Lights/README.md) | [Visit](Blinding-Lights/Writeup.md) |
+| Baby4J | 2000 | `medium`, `blackbox`  | [Visit](Baby4J/README.md) | [Visit](Baby4J/Writeup.md) |
