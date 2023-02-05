@@ -18,7 +18,7 @@ Error: Lexical error at line 2, column 7. Encountered: <EOF> after : ""
 Doing a quick Google Search, you can find the following result:
 ![](images/s1.png)
 
-Which shows references to Java, Graylog (*which is vulnerable to Log4J*) and something interesting which is an error in `Neo4J` which is a graph database. So we can add an hypothesis that the website uses `Neo4J` as a database.
+Which shows references to Java, Graylog (*which is vulnerable to Log4J*) and something interesting which is an error in `Neo4J` which is a graph database. So we can add an hypothesis that the website uses `Neo4J` as a database. What is interesting that the data pattern looks like a graph since each person knows other persons, just like a graph.
 
 Throwing another payload like `?q=' union` to test if we can get an sql injection, we get the following error:
 
@@ -31,7 +31,7 @@ Which shows a piece of query alongside our payload, but doesn't look like a typi
 This is a query written in Cypher, a query language used in the graph database Neo4j.
 ```
 
-With that, we can conclude that the website uses `Neo4J` as a database. and that the title `Baby4J` is maybe just a reference to this database and not the actual `Log4J` vulnerability. Plus we get to have a look at the query used to get the list of persons. which looks like:
+With that, we can confirm that the website uses `Neo4J` as a database. and that the title `Baby4J` is maybe just a reference to this database and not the actual `Log4J` vulnerability. Plus we get to have a look at the query used to get the list of persons. which looks like:
 
 ```cypher
 match (x:Person)-[:KNOWS]->(y:Person where y.name = 'OUR_QUERY') return x
