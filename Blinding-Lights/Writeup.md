@@ -138,7 +138,7 @@ So the label is "Her Loss", yet it is not the flag. Although we know that there'
 
 Downloading the image, we get this content:
 
-![](images/cover.png)
+![](images/cover.jpeg)
 
 ## Conclusion
 
