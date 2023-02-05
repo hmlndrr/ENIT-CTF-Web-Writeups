@@ -7,3 +7,6 @@ It is the deadline night, He's all by himself and He doesn't even know how to jo
 - Frontend Code: [https://github.com/hmlndrr/previet-front](https://github.com/hmlndrr/previet-front)
 - API Code: [https://github.com/hmlndrr/previet-server](https://github.com/hmlndrr/previet-server)
 - Flag Format: `ENIT{secret}`
+
+## Solution
+[Writeup](Writeup.md)

@@ -6,3 +6,6 @@ People only see what they are prepared to see. But my secrets, just like what Tr
 
 - [https://starboy-diary.vercel.app/](https://starboy-diary.vercel.app/)
 - Flag Format: `ENIT{secret}`
+
+## Solution
+[Writeup](Writeup.md)

@@ -8,3 +8,6 @@ I deleted an album cover by mistake..
 - [https://blinding-lights.onrender.com](https://blinding-lights.onrender.com)
 - File: [code.zip](./code.zip)
 - Flag Format: `ENIT{secret}`
+
+## Solution
+[Writeup](Writeup.md)

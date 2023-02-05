@@ -8,3 +8,6 @@ I was chilling in a coffeeshop until she sat in her table... She was gorgeous, b
 
 - File: [Coffeeshop.zip](./coffeeshop.zip)
 - Flag Format: `ENIT{phone_number+hair_color}`
+
+## Solution
+[Writeup](Writeup.md)

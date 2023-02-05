@@ -7,3 +7,6 @@ SOMEONE IS HIDING A SECRET
 
 - [https://baby4j.deno.dev/](https://baby4j.deno.dev/)
 - Flag Format: `ENIT{secret}`
+
+## Solution
+[Writeup](Writeup.md)
